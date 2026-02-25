@@ -21,13 +21,12 @@
 
 ---
 
-
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lore8950&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lore8950/lore8950/blob/output/github-contribution-grid-snake.svg)
