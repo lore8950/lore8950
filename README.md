@@ -21,13 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=lore8950&show_icons=true&theme=radical&cache_seconds=1800" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 🔥 GitHub Streak
 
