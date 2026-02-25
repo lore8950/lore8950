@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Apurbo Debonath</h1>
+<h1 align="center">Hi 👋, I'm Apurbo Debnath</h1>
 <h3 align="center">CSE Student | Python Developer | AI Enthusiast</h3>
 
 ---
