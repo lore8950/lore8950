@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-- 🎓 CSE Student from Bangladesh
+- 🎓 CSE Student from Bangladesh University of Business and Technology (BUBT) 
 - 💻 Currently learning AI & Data Structures
 - 🌱 Working on Python Mini Projects
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: apurbodebnath046@gmail.com
 
 ---
 
